@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"style.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";",
+		".nav-active {\r\n  color: green;\r\n  font-weight: bold;\r\n}"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,WAAW,CAAC,EACV,KAAK,EAAE,KAAK,EACZ,WAAW,EAAE,IAAI,GAClB"
+}
